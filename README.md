@@ -201,7 +201,7 @@ These enhancements can further strengthen the solution:
 
 **Bahurdeen U**  
 Machine Learning & Data Science Enthusiast  
-GitHub: *(Your GitHub link here)*  
+GitHub: *(https://github.com/Bahurdeen5/aimonk-multilabel-classification)*  
 
 ---
 
